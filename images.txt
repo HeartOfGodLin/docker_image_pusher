@@ -1,2 +1,2 @@
---platform=linux/arm64 shuiche/mind-map
+--platform=linux/arm64 liwangsheng/mind-map
 --platform=linux/arm64 xiaoyaliu/alist
