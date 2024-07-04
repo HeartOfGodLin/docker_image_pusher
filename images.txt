@@ -1,3 +1,5 @@
 --platform=linux/arm64 liwangsheng/mind-map
 lovechen/embyserver
 sakoo123/modelscope:1.0
+xhofe/alist
+deluan/navidrome
