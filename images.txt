@@ -4,3 +4,4 @@ sakoo123/modelscope:1.0
 xhofe/alist
 deluan/navidrome
 xhongc/music_tag_web
+qdtoday/qd
