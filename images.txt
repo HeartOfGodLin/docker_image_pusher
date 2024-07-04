@@ -1,3 +1,3 @@
 --platform=linux/arm64 liwangsheng/mind-map
 lovechen/embyserver
-sakoo123/modelscope
+--platform=linux/amd64 sakoo123/modelscope
