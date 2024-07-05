@@ -5,3 +5,4 @@ xhofe/alist
 deluan/navidrome
 xhongc/music_tag_web
 qdtoday/qd
+liwangsheng/mind-map
