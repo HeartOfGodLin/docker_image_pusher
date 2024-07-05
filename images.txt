@@ -5,4 +5,4 @@ xhofe/alist
 deluan/navidrome
 xhongc/music_tag_web
 qdtoday/qd
-shuiche/mind-map
+--platform=linux/amd64 shuiche/mind-map
