@@ -6,3 +6,4 @@ xhongc/music_tag_web
 qdtoday/qd
 --platform=linux/amd64 shuiche/mind-map
 linuxserver/heimdall
+linuxserver/pairdrop:1.10.9
