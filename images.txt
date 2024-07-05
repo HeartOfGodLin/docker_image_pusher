@@ -1,3 +1,4 @@
+--platform=linux/arm64 ypptec/nascab
 lovechen/embyserver
 sakoo123/modelscope:1.0
 xhofe/alist
