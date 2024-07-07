@@ -10,4 +10,3 @@ linuxserver/heimdall
 linuxserver/pairdrop:1.10.9
 mysql:5.7
 homeassistant/home-assistant
-antelle/keeweb
