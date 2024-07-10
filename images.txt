@@ -11,3 +11,4 @@ linuxserver/pairdrop:1.10.9
 mysql:5.7
 homeassistant/home-assistant
 dko0/squoosh
+networkstatic/iperf3
