@@ -12,3 +12,4 @@ mysql:5.7
 homeassistant/home-assistant
 dko0/squoosh
 networkstatic/iperf3
+netdata/netdata
