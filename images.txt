@@ -14,3 +14,4 @@ dko0/squoosh
 networkstatic/iperf3
 netdata/netdata
 --platform=linux/arm64 gdy666/lucky
+allanpk716/chinesesubfinder
