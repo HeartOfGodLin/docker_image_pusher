@@ -2,7 +2,7 @@
 lovechen/embyserver
 sakoo123/modelscope:1.0
 xhofe/alist
-deluan/navidrome
+deluan/navidrome:0.52.5
 xhongc/music_tag_web
 qdtoday/qd
 --platform=linux/amd64 shuiche/mind-map
