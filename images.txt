@@ -6,13 +6,10 @@ deluan/navidrome:0.52.5
 xhongc/music_tag_web
 qdtoday/qd
 --platform=linux/amd64 shuiche/mind-map
-linuxserver/heimdall
 linuxserver/pairdrop:1.10.9
 mysql:5.7
 homeassistant/home-assistant
 dko0/squoosh
-networkstatic/iperf3
-netdata/netdata
 --platform=linux/arm64 gdy666/lucky
-allanpk716/chinesesubfinder
+allanpk716/chinesesubfinder:v0.55.3
 corentinth/it-tools
