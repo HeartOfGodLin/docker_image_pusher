@@ -9,7 +9,7 @@ qdtoday/qd
 linuxserver/pairdrop:1.10.9
 mysql:5.7
 homeassistant/home-assistant
-dko0/squoosh
+dko0/squoosh:1.12.0
 --platform=linux/arm64 gdy666/lucky
 allanpk716/chinesesubfinder:v0.55.3
 corentinth/it-tools
