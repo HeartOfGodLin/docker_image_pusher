@@ -1,4 +1,4 @@
---platform=linux/arm64 ypptec/nascab
+--platform=linux/arm64 ypptec/nascab:3.5.0
 lovechen/embyserver
 sakoo123/modelscope:1.0
 xhofe/alist:v3.36.0-ffmpeg
