@@ -13,3 +13,4 @@ dko0/squoosh:1.12.0
 allanpk716/chinesesubfinder:v0.55.3
 corentinth/it-tools
 amilys/embyserver
+ghcr.io/immich-app/immich-server:release
