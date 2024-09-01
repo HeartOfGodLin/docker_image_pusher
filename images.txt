@@ -1,13 +1,9 @@
 --platform=linux/arm64 ypptec/nascab:3.5.0
-lovechen/embyserver
 sakoo123/modelscope:1.0
 xhofe/alist:v3.36.0-ffmpeg
 deluan/navidrome:0.52.5
 xhongc/music_tag_web:2.1.7
-qdtoday/qd
---platform=linux/amd64 shuiche/mind-map
 mysql:5.7
-homeassistant/home-assistant
 dko0/squoosh:1.12.0
 --platform=linux/arm64 gdy666/lucky
 allanpk716/chinesesubfinder:v0.55.3
