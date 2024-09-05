@@ -1,4 +1,4 @@
---platform=linux/arm64 ypptec/nascab:3.5.0
+--platform=linux/arm64 ypptec/nascab:3.5.1
 sakoo123/modelscope:1.0
 xhofe/alist:v3.36.0-ffmpeg
 deluan/navidrome:0.52.5
@@ -9,4 +9,3 @@ dko0/squoosh:1.12.0
 allanpk716/chinesesubfinder:v0.55.3
 corentinth/it-tools
 amilys/embyserver
-ghcr.io/immich-app/immich-server:release
