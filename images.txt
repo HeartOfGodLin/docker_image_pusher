@@ -1,4 +1,4 @@
-ypptec/nascab:3.5.3-arm64
+ypptec/nascab:3.5.4-arm64
 sakoo123/modelscope:1.0
 xhofe/alist:v3.36.0-ffmpeg
 deluan/navidrome:0.52.5
