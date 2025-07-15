@@ -1,2 +1,2 @@
---platform=linux/arm64 ypptec/nascab:3.5.8
+--platform=linux/arm64 ypptec/nascab:3.5.9
 --platform=linux/arm64 gdy666/lucky
